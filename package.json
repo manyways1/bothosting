@@ -1,0 +1,22 @@
+{
+  "name": "music-bot",
+  "version": "2.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZerioDev/Music-bot.git",
+  "author": "ZerioDev",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "axios": "^0.21.0",
+    "discord-embed-maker": "^3.0.8",
+    "discord-player": "^3.0.2",
+    "discord.js": "^12.4.1",
+    "discord.js-poll-embed": "^1.0.2",
+    "imdb-api": "^4.4.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "novelcovid": "^3.0.0",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0"
+  }
+}
