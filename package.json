@@ -9,7 +9,7 @@
   "repository": {
     "type": "git"
     "url": "git+https://github.com/manyways1/bothosting.git"
-  }
+  },
   "author": "ZerioDev",
   "license": "MIT",
   "dependencies": {
