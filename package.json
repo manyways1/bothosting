@@ -2,7 +2,14 @@
   "name": "music-bot",
   "version": "2.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ZerioDev/Music-bot.git",
+  "scripts": {
+    "start": "node index.js"
+    "node .": "node run index.js"
+  },
+  "repository": {
+    "type": "git"
+    "url": "git+https://github.com/manyways1/bothosting.git"
+  }
   "author": "ZerioDev",
   "license": "MIT",
   "dependencies": {
