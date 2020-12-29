@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "repository": "git+https://github.com/manyways1/bothosting.git",
-  "author": "ZerioDev",
+  "author": "WiII#0852",
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
